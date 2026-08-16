@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+report_*.csv
+report_*.json
+chart.png
+error.log
+.venv/
